@@ -13,7 +13,7 @@ import cors from 'cors';
 dotenv.config();
 const logger = log4js.getLogger();
 logger.level = process.env.LOG_LEVEL;
-//hi
+
 const port = process.env.PORT;
 const app: Express = express();
 
