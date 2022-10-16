@@ -1,3 +1,3 @@
 # defaultAppSetting
 
-chanhe elsint for react app(now it's not)
+chenge elsint for react app(now it's not)
